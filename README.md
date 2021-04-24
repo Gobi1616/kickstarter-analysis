@@ -7,13 +7,11 @@ Performaning analysis on Kickstarter data to uncover trends
 ### Purpose
 the purpose of this porject is to identify the how different campaigns fared in relation to their launch dates and their funding goals. Table representing the total counts of successful, failed, live and canceled crowdfunding campaign outcomes from 2009 to 2017 in 19 different countries. The crowdfunding campaigns were undertaken in 9 different parent categories and 41 sub-categories of funding resources. The successful rate of the campaigns in all categories is 53% and the failed, canceled and live rates are 37%, 8.5% and 1.5%. In contrast, the total count of failed, canceled and live outcome is 47% (1929 counts) , and the count of successful is 53% (2185) where there is small difference. 
 
-
 ## Analysis and Challenges
 Based on the data set it is straight forward analysis to encounter. But, it was difficult to understand why the ‘live’ outcome has been has been limited three months from January to March since 2009 to 2017. It is hard to predict why the dataset not available for rest of month to make a strategic decision. 
 
 Possible challenges in future:
-Due this global Covid19 pandemic situation government restriction and protocols are high priority and not predictable to run campaigns. This will be big challenge. https://github.com/Gobi1616/kickstarter-analysis/edit/main/README.md
-
+Due this global Covid19 pandemic situation government restriction and protocols are high priority and not predictable to run campaigns. This will be big challenge. 
 
 ### Analysis of Outcomes Based on Launch Date
 
