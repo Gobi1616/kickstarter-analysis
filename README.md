@@ -47,4 +47,8 @@ The reason for cancelation and failed rate is unknown. If the reasons are known,
 
 - What are some other possible tables and/or graphs that we could create?
 
-Yearly wise table can give more in-depth view of the crowdfunding performance  and it will help to identify the underperforming categories and  the sub-categories in order to eliminate those campaigns in future and run the profitable ones.
+Yearly wise table can give more in-depth view of the crowdfunding performance  and it will help to identify the underperforming categories and  the sub-categories in order to eliminate those campaigns in future and run the profitable ones. This table and chart clearly shows that, for example no datas available for the January month in 2009, 2010, 2011, 2013 and 2014. I shows cleary in some certain months the outcomes from theater category is null. 
+
+![image](https://user-images.githubusercontent.com/82549869/115945244-c86c9980-a488-11eb-9468-d585c982930d.png)![image](https://user-images.githubusercontent.com/82549869/115945252-d9b5a600-a488-11eb-94ac-716ef84841e3.png)
+
+
